@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"  // Prettier 확장 프로그램 사용
+    },
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 2,
+    "prettier.useTabs": false,
+    "prettier.htmlWhitespaceSensitivity": "ignore"
+}
